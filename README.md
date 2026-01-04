@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammed%20Shaheer%20C%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 🚀 MEAN Stack Developer | Full-Stack Web Engineer  
+### MEAN Stack Developer | Full-Stack Web Engineer  
 Building scalable, secure, and production-ready web applications
 
 </div>
