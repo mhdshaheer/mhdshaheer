@@ -1,72 +1,89 @@
-# 👋 Hi, I’m Muhammed Shaheer C P
+<h1 align="center">Hi 👋, I'm Muhammed Shaheer C P</h1>
+<h3 align="center">MEAN Stack Developer | Full-Stack Web Engineer</h3>
 
-**Full Stack Developer**  
-Building **dynamic and scalable web applications** with modern technologies.
+<p align="center">
+I build scalable, secure, and user-centric web applications using modern JavaScript technologies.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate developer focused on creating meaningful software solutions. I enjoy solving real-world problems through clean, efficient code and am continuously learning and improving my skills.
+I am a **B.Tech Computer Science graduate** and a **MEAN Stack Developer** with hands-on experience in building **industry-standard, production-ready applications**.
+
+I enjoy transforming complex requirements into clean, efficient solutions and continuously improving my skills in **backend architecture, performance optimization, and system design**.
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
-💻 **Languages:** JavaScript · TypeScript · Dart · HTML · CSS  
-⚙️ **Frameworks & Libraries:** Angular · Node.js · Express · Flutter  
-📦 **Databases & Backend:** MongoDB · SQL  
-🔥 **Tools:** Git · GitHub · AWS  
+**Languages**  
+JavaScript · TypeScript · HTML · CSS
 
----
+**Frontend**  
+Angular · EJS
 
-## 📈 GitHub Stats
+**Backend**  
+Node.js · Express.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdshaheer&show_icons=true&theme=dark)
+**Database**  
+MongoDB · SQL
+
+**Tools & Platforms**  
+Git · GitHub · Docker · AWS · Nginx
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some repositories I’ve worked on:
+### 🔹 ZenFit – Online Fitness Platform
+**Tech:** Angular, TypeScript, Node.js, MongoDB  
+A full-stack fitness application with authentication, role-based access, bookings, and secure APIs.
 
-### 💼 ZenFit-fitness
-**Tech:** TypeScript, Angular  
-A fitness app focused on user engagement and performance.  
-🔗 *Link:* https://github.com/mhdshaheer/ZenFit-fitness
+🔗 https://github.com/mhdshaheer/ZenFit-fitness
 
-### 🛍️ E_CommerceApp
+---
+
+### 🔹 E-Commerce Application
 **Tech:** Flutter, Dart  
-E-commerce mobile application with product listing and shopping flow.  
-🔗 *Link:* https://github.com/mhdshaheer/E_CommerceApp
+A mobile e-commerce app with product listings, cart flow, and user-friendly UI.
 
-### 🚗 Tesla-clone
+🔗 https://github.com/mhdshaheer/E_CommerceApp
+
+---
+
+### 🔹 Tesla Homepage Clone
 **Tech:** HTML, CSS  
-UI clone of the Tesla homepage.  
-🔗 *Link:* https://github.com/mhdshaheer/tesla-clone
+A responsive UI clone focusing on layout precision and visual consistency.
 
-*(Add more project descriptions as you like)*
-
----
-
-## 🎯 What I’m Doing Now
-
-- 🚧 Building full-stack web projects using Angular and Node.js  
-- 📘 Learning advanced backend architectures and scalable systems  
-- 💡 Improving English communication & technical writing  
+🔗 https://github.com/mhdshaheer/tesla-clone
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-Let’s connect!
-
-📌 **LinkedIn:** https://www.linkedin.com/in/muhammedshaheercp/  
-📌 **LeetCode:** https://leetcode.com/u/muhammed_shaheer_cp/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdshaheer&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 What I’m Currently Doing
 
-I enjoy learning new ideas every day and building tools that make life better!
+- 🔭 Building full-stack MEAN applications  
+- 🌱 Learning advanced backend concepts and scalable architectures  
+- 📚 Improving problem-solving and technical communication  
+- ⚙️ Exploring CI/CD, Docker, and cloud deployments  
 
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammedshaheercp  
+- 🧠 LeetCode: https://leetcode.com/u/muhammed_shaheer_cp  
+
+---
+
+## ⚡ Personal Note
+
+I believe **consistent learning, clean code, and discipline** are the keys to becoming a strong software engineer.
